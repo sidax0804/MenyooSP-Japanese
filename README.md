@@ -1,5 +1,7 @@
 # Menyoo SP - Japanese Translation & ScriptHookVDotNet Compatibility Fix
 
+> **⚠ WIP (Work In Progress):** Translation is not yet complete. Some menu items may still appear in English.
+
 A Japanese language pack and crash fix patch for [Menyoo SP](https://github.com/itsjustcurtis/MenyooSP) (GTA V single-player trainer).
 
 ## The Problem
@@ -133,6 +135,8 @@ Menyoo PC is originally by MAFINS, continued by itsjustcurtis.
 ---
 
 # Menyoo SP - 日本語翻訳 & ScriptHookVDotNet互換性修正パッチ
+
+> **⚠ 作業中（WIP）：** 翻訳はまだ完全ではありません。一部のメニュー項目が英語のまま表示される場合があります。
 
 [Menyoo SP](https://github.com/itsjustcurtis/MenyooSP)（GTA Vシングルプレイヤー用トレーナー）の日本語言語パックとクラッシュ修正パッチです。
 
