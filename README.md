@@ -1,6 +1,8 @@
 # Menyoo SP - Japanese Translation & ScriptHookVDotNet Compatibility Fix
 
 > **⚠ WIP (Work In Progress):** Translation is not yet complete. Some menu items may still appear in English.
+>
+> Note: If you are using Menyoo 2.3.0a4 or later, this patch is not needed. The language system crash fix has been merged into the official build, so language files and SHVDN can now coexist without issues. See itsjustcurtis/MenyooSP#478 for details. This patch is intended for users still on versions prior to 2.3.0a4 (e.g. 2.2.2).​​​​​​​​​​​​​​​​
 
 A Japanese language pack and crash fix patch for [Menyoo SP](https://github.com/itsjustcurtis/MenyooSP) (GTA V single-player trainer).
 
@@ -137,6 +139,8 @@ Menyoo PC is originally by MAFINS, continued by itsjustcurtis.
 # Menyoo SP - 日本語翻訳 & ScriptHookVDotNet互換性修正パッチ
 
 > **⚠ 作業中（WIP）：** 翻訳はまだ完全ではありません。一部のメニュー項目が英語のまま表示される場合があります。
+> 
+> ※ Menyoo 2.3.0a4以降をお使いの方は、このパッチは不要です。言語システムのクラッシュ修正が本体に取り込まれたため、言語ファイルとSHVDNの共存が公式にサポートされています。詳細は itsjustcurtis/MenyooSP#478 をご覧ください。このパッチは Menyoo 2.2.2 など、2.3.0a4より前のバージョンをお使いの方向けです。
 
 [Menyoo SP](https://github.com/itsjustcurtis/MenyooSP)（GTA Vシングルプレイヤー用トレーナー）の日本語言語パックとクラッシュ修正パッチです。
 
